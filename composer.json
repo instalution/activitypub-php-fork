@@ -16,7 +16,7 @@
     "docs": "phpdoc -d ./src -t ./docs"
   },
   "require": {
-    "php": "^5.5 || ^7.0",
+    "php": "^5.5 || ^7.0 || ^8.0",
     "ext-json": "*",
     "cache/apc-adapter": "0.3.2",
     "cache/apcu-adapter": "0.2.2",
