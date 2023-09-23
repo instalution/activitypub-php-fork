@@ -22,7 +22,7 @@ ActivityPub-PHP is a library that embeds a full ActivityPub server into any PHP 
 ## Installation
 ActivityPub-PHP is available via Composer:
 
-    $ composer require pterotype/activitypub-php
+    $ composer require instalution/activitypub-php-fork
 
 ## Usage
 Basic usage example:
