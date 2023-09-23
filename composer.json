@@ -1,12 +1,14 @@
 {
-  "name": "pterotype/activitypub-php",
-  "description": "An ActivityPub library",
+  "name": "instalution/activitypub-php-fork",
+  "description": "A fork of an ActivityPub library",
   "license": "MIT",
   "authors": [
     {
-      "name": "Jeremy Dormitzer",
-      "email": "jeremy@dormitzer.net",
-      "homepage": "https://jeremydormitzer.com",
+      "name": "https://github.com/pterotype-project/activitypub-php",
+      "role": "Developer"
+    },
+    {
+      "name": "https://github.com/instalution/activitypub-php-fork",
       "role": "Developer"
     }
   ],
