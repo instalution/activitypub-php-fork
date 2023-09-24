@@ -7,7 +7,7 @@ use ActivityPub\Utils\HeaderUtils;
 use ActivityPub\Utils\SimpleDateTimeProvider;
 use DateTime;
 use Psr\Http\Message\RequestInterface;
-use Symfony\Bridge\PsrHttpMessage\Factory\DiactorosFactory;
+use ActivityPub\Utils\DiactorosFactory;
 use Symfony\Component\HttpFoundation\Request;
 
 /**
